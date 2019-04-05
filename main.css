@@ -48,7 +48,7 @@ margin: 0;
 	padding:0px 40px;
 	margin:0;
 	line-height: 40px;
-	transition: 0.4s;
+	transition: 0.3s;
 	
 
 }
@@ -90,12 +90,12 @@ margin: 0;
 	
 	
 
-	font-size: 200%;
+	font-size: 180%;
 	margin-bottom: 40px;
 }
 
 #header p{
-	
+	line-height: 25px;
 }
 
 #header:hover{
@@ -104,7 +104,14 @@ margin: 0;
 	color:black;
 	}
 
-.footerm{
+
+div.footer{
+
 
 	background-color: black;
-}
+	text-align: center;
+	color:white;
+	height:180px;
+	padding:20px 0px;
+	}
+
