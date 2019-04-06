@@ -82,7 +82,7 @@ margin: 0;
 	border-bottom-right-radius:20px;
 	padding:20px 0px;
 	padding-bottom: 30px;
-
+	transition: transform 0.4s
 }
 
  #header h1{
@@ -102,6 +102,7 @@ margin: 0;
 
 	background-color:  #edeef0 ;
 	color:black;
+	transform: scale(1.1);
 	}
 
 
